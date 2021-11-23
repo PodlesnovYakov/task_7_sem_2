@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622042781 source:c:\users\30041203\desktop\c++ projects\task_7_sem2\main.cpp
+	<iostream>
+	"queue.h"
+	<cstring>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<locale.h>
+
+1620677430 c:\users\30041203\desktop\c++ projects\task_7_sem2\queue.h
+	<locale.h>
+	<iostream>
+
